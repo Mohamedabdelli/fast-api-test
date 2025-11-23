@@ -2,4 +2,4 @@ fastapi
 uvicorn[standard]
 mlflow
 pandas
-numpy
+haddop
