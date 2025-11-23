@@ -1,0 +1,8 @@
+debug.log
+file.txt
+**.txt
+text.txt
+venv/
+*.log
+.env
+requirements.txt
